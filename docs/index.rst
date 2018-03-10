@@ -1,5 +1,5 @@
-Welcome to Nagios Plug-in Process Controller's documentation!
-======================================
+Nagios Plug-in Process Controller
+=================================
 
 .. toctree::
    :maxdepth: 2
